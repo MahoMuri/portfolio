@@ -27,7 +27,7 @@
           title="My Portfolio"
           description="A Vite + Vue3 website built to server as my portfolio. Uses TailwindCSS and TypeScript."
           github="https://github.com/MahoMuri/portfolio"
-          website="https://mahomuri.vercel.app"
+          website="https://mahomuri.tech"
         />
       </div>
     </div>
