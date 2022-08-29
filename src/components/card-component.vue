@@ -1,6 +1,6 @@
 <template>
   <div class="card-item">
-    <img class="object-scale-down" :src="imageLink" alt="Project Logo" />
+    <img class="mx-auto object-fit" :src="imageLink" alt="Project Logo" />
     <div class="card-header">
       <div class="flex flex-row justify-between">
         {{ title }}

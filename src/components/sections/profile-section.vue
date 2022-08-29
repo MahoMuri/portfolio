@@ -22,7 +22,7 @@
         </a>
       </div>
     </div>
-    <div class="mb-5">
+    <div class="sm:mb-5 md:mb-0">
       <img class="profile-img" src="../../assets/img/profile.png" alt="" />
     </div>
   </div>
@@ -35,7 +35,9 @@ import ButtonComponent from "../button-component.vue";
 
 <style lang="scss" scoped>
 .jumbotron {
-  @apply container mx-auto flex flex-col-reverse lg:flex-row items-center mt-5 xl:mt-44 mb-16 lg:mb-24 xl:mb-52 gap-5;
+  @apply container mx-auto flex flex-col-reverse lg:flex-row items-center;
+  @apply mt-5 xl:mt-44 mb-16 lg:mb-24 xl:mb-48 gap-5;
+  @apply sm:px-10 xl:px-0;
 }
 
 .profile {
@@ -49,7 +51,7 @@ import ButtonComponent from "../button-component.vue";
 }
 
 .buttons {
-  @apply flex flex-row gap-4 mt-5 xl:mt-0;
+  @apply flex flex-row gap-4 mt-5;
 }
 
 .profile-img {

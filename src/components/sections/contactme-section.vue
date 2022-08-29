@@ -20,7 +20,7 @@
 .contact {
   @apply flex flex-col justify-center text-center gap-5;
   @apply bg-mahomuri-black-100;
-  @apply p-10 lg:p-28;
+  @apply p-10 lg:p-28 xl:p-80;
 }
 
 .header {
