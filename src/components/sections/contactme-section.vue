@@ -1,6 +1,6 @@
 <template>
   <div class="contact">
-    <h3 class="header">Get in touch with me!</h3>
+    <h2 class="header">Get in touch with me!</h2>
     <a class="email" href="mailto:paolo.santos_12@yahoo.com.ph">paolo.santos_12@yahoo.com.ph</a>
     <div class="flex flex-row justify-center gap-8">
       <a href="https://github.com/MahoMuri" target="_blank">

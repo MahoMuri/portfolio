@@ -1,7 +1,7 @@
 <template>
   <div class="projects">
     <div class="container mx-auto pt-13">
-      <h3 class="font-main font-bold text-mahomuri-green text-lg lg:text-2xl">Projects</h3>
+      <h2 class="font-main font-bold text-mahomuri-green text-lg lg:text-2xl">Projects</h2>
       <hr class="my-5 w-32" />
       <div class="cards">
         <CardComponent

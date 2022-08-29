@@ -3,8 +3,7 @@
     <div class="profile">
       <p class="profile-header">
         <iconify-icon icon="twemoji:waving-hand-light-skin-tone" inline></iconify-icon> Hi there! I'm <br />
-        <span class="profile-name">Paolo Santos</span>
-        <br />
+        <h1 class="profile-name">Paolo Santos</h1>
         I like making Discord bots with
         <a class="ts hover:underline" href="https://typescriptlang.org" target="_blank">TypeScript</a> and I enjoy
         building webapps with <a class="vuejs hover:underline" href="https://vuejs.org" target="_blank">VueJS</a>.

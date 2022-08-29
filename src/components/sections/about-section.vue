@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h3 class="header">About me</h3>
+    <h2 class="header">About me</h2>
     <hr class="my-5 w-32" />
     <div class="content">
       <div class="w-full">
