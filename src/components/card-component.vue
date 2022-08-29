@@ -6,12 +6,12 @@
         {{ title }}
         <div class="flex flex-row gap-1 items-center">
           <div v-if="github">
-            <a :href="github" target="_blank">
+            <a :href="github" target="_blank" rel="noopener noreferrer">
               <iconify-icon icon="akar-icons:github-fill"></iconify-icon>
             </a>
           </div>
           <div v-if="website">
-            <a :href="website" target="_blank">
+            <a :href="website" target="_blank" rel="noopener noreferrer">
               <iconify-icon icon="ci:external-link" width="30"></iconify-icon>
             </a>
           </div>

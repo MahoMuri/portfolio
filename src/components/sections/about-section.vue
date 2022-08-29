@@ -6,8 +6,13 @@
       <div class="w-full">
         <p>
           My name is <span class="green-highlight">Paolo Steven B. Santos</span>. I am a 4th Year student at
-          <a href="https://iacademy.edu.ph" class="blue-highlight hover:underline" target="_blank">iACADEMY</a>. I took
-          up
+          <a
+            href="https://iacademy.edu.ph"
+            class="blue-highlight hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+            >iACADEMY</a
+          >. I took up
           <span class="green-highlight underline"
             >Bachelor of Science in Computer Science major in Software Engineering (BSCSSE)</span
           >
@@ -20,20 +25,42 @@
           I am really passionate with programming ever since I set foot on our academy. I really learned a lot from my
           professors ranging from industry standard design patterns to important quality assessment methods. I've
           developed my
-          <a href="https://typescriptlang.org" class="blue-highlight hover:underline" target="_blank">TypeScript</a> and
-          <a href="http://vuejs.org" class="green-highlight hover:underline" target="_blank">VueJS</a> skills by
-          self-studying during quarantine.
+          <a
+            href="https://typescriptlang.org"
+            class="blue-highlight hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+            >TypeScript</a
+          >
+          and
+          <a href="http://vuejs.org" class="green-highlight hover:underline" target="_blank" rel="noopener noreferrer"
+            >VueJS</a
+          >
+          skills by self-studying during quarantine.
           <br />
           <br />
           I honed my
-          <a href="https://typescriptlang.org" class="blue-highlight hover:underline" target="_blank">TypeScript</a>
+          <a
+            href="https://typescriptlang.org"
+            class="blue-highlight hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+            >TypeScript</a
+          >
           skills by developing Discord Bots that can do numerous things from server management, playing/streaming music,
           and creating custom voice channels for users! My magnum opus as a bot dev is
-          <a class="green-highlight hover:underline" href="https://top.gg/bot/816152179101663312" target="_blank"
+          <a
+            class="green-highlight hover:underline"
+            href="https://top.gg/bot/816152179101663312"
+            target="_blank"
+            rel="noopener noreferrer"
             >Curator</a
           >. A custom voice channel bot that creates fully-customizable voice and text channels for users to use. While
-          my <a href="http://vuejs.org" class="green-highlight hover:underline" target="_blank">VueJS</a> skills, by
-          making this website/portfolio along with my final projects for school and our thesis paper.
+          my
+          <a href="http://vuejs.org" class="green-highlight hover:underline" target="_blank" rel="noopener noreferrer"
+            >VueJS</a
+          >
+          skills, by making this website/portfolio along with my final projects for school and our thesis paper.
         </p>
       </div>
       <div class="hidden xl:block border-l-neutral-700 border-l-[1px] h-96"></div>

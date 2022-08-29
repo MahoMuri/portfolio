@@ -3,13 +3,13 @@
     <h2 class="header">Get in touch with me!</h2>
     <a class="email" href="mailto:paolo.santos_12@yahoo.com.ph">paolo.santos_12@yahoo.com.ph</a>
     <div class="flex flex-row justify-center gap-8">
-      <a href="https://github.com/MahoMuri" target="_blank">
+      <a href="https://github.com/MahoMuri" target="_blank" rel="noopener noreferrer">
         <iconify-icon icon="akar-icons:github-fill" class="social-media-icon"></iconify-icon>
       </a>
-      <a href="https://twitter.com/mahomuri" target="_blank">
+      <a href="https://twitter.com/mahomuri" target="_blank" rel="noopener noreferrer">
         <iconify-icon icon="bi:twitter" class="social-media-icon"></iconify-icon>
       </a>
-      <a href="https://linkedin.com/in/mahomuri" target="_blank">
+      <a href="https://linkedin.com/in/mahomuri" target="_blank" rel="noopener noreferrer">
         <iconify-icon icon="bi:linkedin" class="social-media-icon"></iconify-icon>
       </a>
     </div>
