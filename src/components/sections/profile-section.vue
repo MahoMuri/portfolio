@@ -21,7 +21,7 @@
         </a>
       </div>
     </div>
-    <div class="sm:mb-5 md:mb-0">
+    <div class="mb-2 sm:mb-5 md:mb-0">
       <img class="profile-img" src="../../assets/img/profile.png" alt="" />
     </div>
   </div>
@@ -50,7 +50,7 @@ import ButtonComponent from "../button-component.vue";
 }
 
 .buttons {
-  @apply flex flex-row gap-4 mt-5;
+  @apply flex flex-row gap-4 mt-5 items-center justify-center md:justify-start;
 }
 
 .profile-img {

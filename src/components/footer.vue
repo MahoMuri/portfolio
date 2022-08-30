@@ -15,7 +15,7 @@
 
 <style lang="scss" scoped>
 .footer {
-  @apply bg-mahomuri-green py-14;
+  @apply bg-mahomuri-green py-10 lg:py-14;
   .footer-headline {
     @apply font-main font-bold text-mahomuri-light-green text-center text-md sm:text-lg;
   }
@@ -26,7 +26,7 @@
 
 .nav-items {
   @apply flex flex-col text-center font-body text-mahomuri-light-green text-sm;
-  @apply w-min mx-auto my-10;
+  @apply w-min mx-auto mt-2 mb-5 lg:my-10;
   .nav-item {
     @apply duration-200 hover:scale-105 hover:underline;
   }
