@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@headlessui/vue": "^1.6.7",
+    "@vercel/analytics": "^0.1.4",
     "aos-vue": "^0.0.5",
     "iconify-icon": "^1.0.0-beta.3",
     "standard-version": "^9.5.0",
