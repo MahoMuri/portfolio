@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/MahoMuri/portfolio/compare/v0.0.3...v0.0.4) (2022-11-10)
+
+
+### Features
+
+* added vercel analytics ([138ac51](https://github.com/MahoMuri/portfolio/commit/138ac516365e275ea7a1696f24ce6eb4bfb2a8c9))
+
 ### [0.0.3](https://github.com/MahoMuri/portfolio/compare/v0.0.2...v0.0.3) (2022-08-30)
 
 
