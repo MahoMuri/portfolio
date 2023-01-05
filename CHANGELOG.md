@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/MahoMuri/portfolio/compare/v0.0.4...v0.0.5) (2023-01-05)
+
+
+### Bug Fixes
+
+* updated footer year ([97cb710](https://github.com/MahoMuri/portfolio/commit/97cb7100f307f07a9d7b768c7188d7fc65c991ec))
+
 ### [0.0.4](https://github.com/MahoMuri/portfolio/compare/v0.0.3...v0.0.4) (2022-11-10)
 
 
