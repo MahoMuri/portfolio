@@ -7,7 +7,7 @@
       <router-link class="nav-item" :to="{ path: '/', hash: '#about' }">About</router-link>
     </div>
     <p class="footer-credits">
-      2022 &copy; Paolo Steven Santos <iconify-icon class="align-middle" inline icon="ci:dot-02-s"></iconify-icon> All
+      2023 &copy; Paolo Steven Santos <iconify-icon class="align-middle" inline icon="ci:dot-02-s"></iconify-icon> All
       Rights Reserved.
     </p>
   </div>
