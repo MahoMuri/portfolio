@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/MahoMuri/portfolio/compare/v0.0.5...v0.0.6) (2023-01-24)
+
+
+### Features
+
+* added new card component, updated about section ([86df09c](https://github.com/MahoMuri/portfolio/commit/86df09c33f2aa3dbd83bb80d889507e5d82ebe48))
+
 ### [0.0.5](https://github.com/MahoMuri/portfolio/compare/v0.0.4...v0.0.5) (2023-01-05)
 
 
