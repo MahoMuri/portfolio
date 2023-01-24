@@ -25,9 +25,16 @@
         <CardComponent
           image-link="https://i.imgur.com/S7sYUKc.png"
           title="My Portfolio"
-          description="A Vite + Vue3 website built to server as my portfolio. Uses TailwindCSS and TypeScript."
+          description="A Vite + Vue3 website built to serve as my portfolio. Uses TailwindCSS and TypeScript."
           github="https://github.com/MahoMuri/portfolio"
           website="https://mahomuri.tech"
+        />
+        <CardComponent 
+          image-link="https://i.imgur.com/euBmu4I.png"
+          title="Ins8ball"
+          description="A Magic 8Ball website built on NextJS. Uses TailwindCSS and Typescript."
+          github="https://github.com/MahoMuri/ins8ball"
+          website="https://www.ins8ball.xyz/"
         />
       </div>
     </div>

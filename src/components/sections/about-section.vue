@@ -16,13 +16,9 @@
           <span class="green-highlight underline"
             >Bachelor of Science in Computer Science major in Software Engineering (BSCSSE)</span
           >
-          and
-          <span class="blue-highlight underline"
-            >Bachelor of Science in Information Technology major in Web Development (BSITWD)</span
-          >.
           <br />
           <br />
-          I am really passionate with programming ever since I set foot on our academy. I really learned a lot from my
+          I am passionate with programming ever since I set foot on our academy. I really learned a lot from my
           professors ranging from industry standard design patterns to important quality assessment methods. I've
           developed my
           <a

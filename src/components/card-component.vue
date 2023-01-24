@@ -38,8 +38,8 @@ defineProps({
 <style lang="scss" scoped>
 .card-item {
   @apply flex flex-col max-w-md 2xl:max-w-xl bg-neutral-900 mb-10 overflow-hidden;
-  @apply rounded-md drop-shadow-lg;
-  @apply transition duration-200 hover:scale-105 hover:drop-shadow-xl;
+  @apply rounded-md drop-shadow-sm;
+  @apply transition duration-200 hover:scale-105 hover:drop-shadow-md;
 }
 
 .card-header {
