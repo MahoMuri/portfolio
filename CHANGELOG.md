@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/MahoMuri/portfolio/compare/v0.0.6...v0.0.7) (2023-02-14)
+
+
+### Features
+
+* updated resume file ([d324378](https://github.com/MahoMuri/portfolio/commit/d324378e7aa74ad0bcbd106c52c64d073e194d6f))
+
+
+### Bug Fixes
+
+* removed unused dependencies ([2d3f2e5](https://github.com/MahoMuri/portfolio/commit/2d3f2e5e0ad8cdfd60c352a5f19b2b25b96cefa0))
+
 ### [0.0.6](https://github.com/MahoMuri/portfolio/compare/v0.0.5...v0.0.6) (2023-01-24)
 
 
