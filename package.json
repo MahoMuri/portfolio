@@ -12,12 +12,10 @@
   "dependencies": {
     "@headlessui/vue": "^1.6.7",
     "@vercel/analytics": "^0.1.4",
-    "aos-vue": "^0.0.5",
     "iconify-icon": "^1.0.0-beta.3",
     "standard-version": "^9.5.0",
     "vue": "^3.2.37",
-    "vue-router": "^4.1.2",
-    "vue-scrollto": "^2.20.0"
+    "vue-router": "^4.1.2"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.2",
