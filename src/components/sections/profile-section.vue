@@ -1,13 +1,13 @@
 <template>
   <div class="jumbotron">
     <div class="profile">
-      <p class="profile-header">
+      <section class="profile-header">
         <iconify-icon icon="twemoji:waving-hand-light-skin-tone" inline></iconify-icon> Hi there! I'm <br />
         <h1 class="profile-name">Paolo Santos</h1>
         I like making Discord bots with
         <a class="ts hover:underline" href="https://typescriptlang.org" target="_blank" rel="noopener noreferrer">TypeScript</a> and I enjoy
         building webapps with <a class="vuejs hover:underline" href="https://vuejs.org" target="_blank" rel="noopener noreferrer">VueJS</a>.
-      </p>
+      </section>
       <div class="buttons">
         <router-link :to="{ path: '/', hash: '#projects' }">
           <ButtonComponent
@@ -16,7 +16,7 @@
             button-class="blue-outline"
           />
         </router-link>
-        <a href="/Resume-Paolo-v2.pdf" download>
+        <a href="/Resume-Paolo-v5.pdf" download>
           <ButtonComponent button-label="Resume" button-icon="carbon:document-pdf" button-class="blue-solid" />
         </a>
       </div>
