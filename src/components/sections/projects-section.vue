@@ -29,7 +29,7 @@
           github="https://github.com/MahoMuri/portfolio"
           website="https://mahomuri.tech"
         />
-        <CardComponent 
+        <CardComponent
           image-link="https://i.imgur.com/euBmu4I.png"
           title="Ins8ball"
           description="A Magic 8Ball website built on NextJS. Uses TailwindCSS and Typescript."
