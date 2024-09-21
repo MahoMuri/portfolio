@@ -1,10 +1,10 @@
 <template>
   <NavBar />
   <router-view />
-  <FooterVue />
+  <Footer />
 </template>
 
 <script setup lang="ts">
-import NavBar from "./components/nav-bar.vue";
-import FooterVue from "./components/footer.vue";
+import Footer from "./components/footer-component.vue";
+import NavBar from "./components/navbar-component.vue";
 </script>
